@@ -1,0 +1,12 @@
+AuthType Basic
+AuthName "Survey Admin"
+Require user adeeb
+Require user felipe
+Require user yuri
+Require user garym
+Require user kip
+Require user bob
+Require user frang
+Require user scotts
+DirectoryIndex admin.php
+IndexIgnore *
